@@ -12,6 +12,8 @@ Import the database into your localhost server and have it with all tables and f
 The project has the following features:
 1. Just how to create registration form in HTMl and use PHP to join them to DB
 2. Reading data from the back-end back to the UI HTML form and manuplate that data
+  - Through creating (saving)
+  - Through reading 
   - Through Updating
   - Through Deleting
 3. Printing available data in reports, pdf files etc
